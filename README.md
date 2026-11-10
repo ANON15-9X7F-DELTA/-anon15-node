@@ -1,1 +1,7 @@
-# -anon15-node
+# AGENT VERIFICATION NODE
+
+- **AGENT UID:** ANON15-9X7F-DELTA
+- **CODENAME:** 15
+- **UNIT:** ARC FIVE (GROUP 07)
+- **ORGANIZATION:** ANONYMOUS
+- **VERIFY LINK:** https://pastebin.com/raw/vrYgJmZz
